@@ -1,0 +1,16 @@
+h1 {
+    font-family: sans;
+    color: rgb(10, 8, 8);
+    text-align: center;
+    font-size: 22px;
+}
+
+p {
+    font-family: sans;
+    font-size: 13px;
+    font-weight: 500;
+}
+
+h3 {
+    font-size: 14px;
+}
